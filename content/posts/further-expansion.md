@@ -1,10 +1,10 @@
 ---
-title: "Military Accomplishments"
+title: "Major Accomplishments"
 date: 2022-05-22
 draft: false
 ---
 
-Charlemagne's military accomplishments span over 40 years from the late 760s to the mid 810s CE. Among his most well known accomplishments include the Saxton, Byzantine, and Slavic wars. ALl were succesful expeditions that expanded Frankish control over Europe.
+Charlemagne's accomplishments span over 40 years from the late 760s to the mid 810s CE. Among his most well known accomplishments include the Saxton, Byzantine, and Slavic wars. ALl were succesful expeditions that expanded Frankish control over Europe.
 
 ## Victory over the Saxons in the Saxon War
 His largest and most well known accomplishment is his victory over the Saxons in the Saxon Wars from 772 to 804 CE. This war was among the most arduous wars in history due to the lives lost and damage done. Charlemagne started the war for two main reasons:
