@@ -1,11 +1,9 @@
 ---
-title: "Bibi"
+title: "Annotated Bibliography"
 date: 2022-05-20
 draft: false
 ---
 
-
-# Annotated Bibliography
 
 Barbero, Alessandro. “Charlemagne: Father of a Continent.” University of California, 2018. 
 This source talks about his influence on Europe as a whole. It explains who Charlemange was, what power he had, and how he shaped Europe, long after his rule. It also gives information and insight into his personal life and how his personal life changed his judgment during his rule.
