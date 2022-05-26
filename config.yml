@@ -19,7 +19,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Abhijit Sipahimalani
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -75,14 +75,6 @@ params:
   homeInfoParams:
     Title: "English 2 Final: Charlemagne \U0001F44B"
     Content: Thanks for listening 
-
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
 
   analytics:
     google:
