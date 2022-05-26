@@ -1,6 +1,6 @@
 ---
 title: "Legacy"
-date: 2022-05-22
+date: 2022-05-21
 draft: false
 ---
 
