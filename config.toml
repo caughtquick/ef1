@@ -1,4 +1,4 @@
 baseURL = "http://example.org"
 languageCode = "en-us"
 title = "English 2 Final: Charlamagne"
-theme = "PaperMod"
+theme = "paper"
